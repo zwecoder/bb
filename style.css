@@ -1,3 +1,7 @@
 body{
     background-color: blue;
 }
+header{
+    margin:20px;
+    padding: 20px;
+}
